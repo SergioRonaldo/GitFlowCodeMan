@@ -1,1 +1,2 @@
 # GitFlowCodeMan
+# CodeMan GitFlow
